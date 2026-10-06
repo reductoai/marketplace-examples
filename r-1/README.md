@@ -36,6 +36,7 @@ Supported instance: `ml.g6e.2xlarge` (1x NVIDIA L40S). Real-time endpoints and b
 ```
 
 - `text`: a `<page>` header, then one `<block>` for each layout region. Each block has a `type` and a `position` box. Tables are HTML.
+- `position`: `x0,y0,x1,y1` on a 0-999 grid across the page width and height, not pixels. Pixel x = x0 × width / 999.
 - `finish_reason`: `stop` when the page is complete. `length` when `max_tokens` cut the output.
 
 ## Limits
