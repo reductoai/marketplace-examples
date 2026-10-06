@@ -1,0 +1,9 @@
+{
+  "text": "<page rotation=0 tilt=0 watermark=none words=~50 flags=none>\n\n<block type=\"title\" position=56,111,312,147>\nINVOICE INV-314\n</block>\n\n<block type=\"table\" position=51,235,587,683>\n<table>\n<thead>\n<tr>\n<th> Item </th>\n<th> Quantity </th>\n<th> Amount </th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td> Cedar bolts </td>\n<td> 4 </td>\n<td> 28.00 </td>\n</tr>\n<tr>\n<td> Maple washers </td>\n<td> 2 </td>\n<td> 12.00 </td>\n</tr>\n<tr>\n<td> Total </td>\n<td></td>\n<td> 40.00 </td>\n</tr>\n</tbody>\n</table>\n</block>",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 644,
+    "completion_tokens": 235,
+    "total_tokens": 879
+  }
+}

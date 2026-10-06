@@ -1,0 +1,9 @@
+{
+  "text": "<page rotation=90 tilt=0 watermark=none words=~50 flags=none>\n\n<block type=\"title\" position=112,659,148,944>\nROTATION CHECK\n</block>\n\n<block type=\"text\" position=245,607,279,944>\nReference: MAPLE-928\n</block>\n\n<block type=\"text\" position=375,636,420,944>\nSilver lantern delivery\n</block>",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 644,
+    "completion_tokens": 125,
+    "total_tokens": 769
+  }
+}
