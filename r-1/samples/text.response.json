@@ -1,0 +1,9 @@
+{
+  "text": "<page rotation=0 tilt=0 watermark=none words=~50 flags=none>\n\n<block type=\"title\" position=56,112,340,146>\nORCHID SHIPPING\n</block>\n\n<block type=\"text\" position=56,246,412,280>\nReference: ORCHID-742\n</block>\n\n<block type=\"text\" position=56,375,581,420>\nThe blue parcel arrives on Thursday.\n</block>",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 644,
+    "completion_tokens": 127,
+    "total_tokens": 771
+  }
+}
